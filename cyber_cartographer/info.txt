@@ -1,0 +1,8 @@
+Name: `Cyber Survey`
+Description: `Lookin' like a Fujitsu FI-6800`
+Hint: `Drop the 40's like it's hot, what do you see`
+Flag: `RS{sc4ns_bett3r_than_4n_hp_d3skjet3755}` 
+
+Points: 150-200, idk you be the judge
+
+Only thing included in the challenge should be the pcap located in `challenge/cap.pacpng`, with the name/description above.
