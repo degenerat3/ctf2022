@@ -1,0 +1,7 @@
+bucket name: hold-my-secret-stuff-q673c5f6ns
+magic_str: yldzzf9vi5
+flag: RS{a_p0st_p4ram_sux_4_buck3t_secur1ty}
+
+points: 300
+
+ 
