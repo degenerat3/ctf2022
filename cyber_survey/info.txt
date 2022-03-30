@@ -5,4 +5,4 @@ Flag: `RS{sc4ns_bett3r_than_4n_hp_d3skjet3755}`
 
 Points: 150-200, idk you be the judge
 
-Only thing included in the challenge should be the pcap located in `challenge/cap.pacpng`, with the name/description above.
+Only thing included in the challenge should be the pcap located in `challenge/cap.pacpng`, with the name/description above. The scripts are there as a reference for admin only, they are NOT for competitors to see.
