@@ -1,0 +1,11 @@
+Name: `Badc2`
+Description: `Not very versatile malware`
+Hint: `Did you say please?`
+Flag: `RS{m4gic_word_is_4lw4ys_b31ng_p0lit3}` 
+
+Category: `Forensics`
+Points: 100, maybe 150 idk you decide
+
+Only thing included in the challenge should be the pcap located in `challenge/cap.pacp`, with the name/description above. The scripts are there as a reference for admin only, they are NOT for competitors to see.
+
+If people ask, YES sending a POST request to maliciouspayload[.]delivery is allowed and encouraged, as that's how the challenge is solved (more info in writeup).
