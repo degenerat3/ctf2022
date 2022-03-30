@@ -10,3 +10,5 @@ In each folder, there will be a file `info.txt`, a folder `challenge`, and a fol
 The challenge folder contains the file that should be uploaded as part of the challenge, but be warned it ALSO may contain scripts or other files that were used to make the challenge. In both cases where present, these 'non challenge' files are present in a `scripts_that_created_cap` directory. Administrators can look at this, but don't give these files to the competitors. Again, ONLY THE SPECIFIED FILE named in `info.txt` should be included in the challenge. 
 
 The `solution` folder will contain the writeup markdown, as well as any relevant solver script (if applicable). 
+
+General note that some of the infra may not be available outside of competition hours. If you're trying to test challenges or sanity check my work, let me know so I can make sure the webservers are up as required.
