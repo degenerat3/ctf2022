@@ -1,7 +1,14 @@
-bucket name: hold-my-secret-stuff-q673c5f6ns
-magic_str: yldzzf9vi5
-flag: RS{a_p0st_p4ram_sux_4_buck3t_secur1ty}
+Name: `Leaky Pail`
+Description: `This one doesn't hold sand or water`
+Hint: `Anything interesting in the EC2 creation logs?`
+Flag: `RS{a_p0st_p4ram_sux_4_buck3t_secur1ty}` 
 
+category: misc
 points: 300
 
+The only file that needs to be uploaded with the challenge is `challenge/events.json`. If people ask, YES sending a POST request to cyberdelia[.]online is allowed and encouraged, as that's how the challenge is solved (more info in writeup). 
+
+other random notes:
+bucket name: hold-my-secret-stuff-q673c5f6ns
+magic_str: yldzzf9vi5
  
