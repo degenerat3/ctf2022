@@ -1,0 +1,9 @@
+Name: `Oreo`
+Description: `yum, goes well with milk`
+Hint: None for this challenge, its already too easy
+Flag: `RS{yumyum_m1lk_4and_co0ki3s_f0r_dayz}` 
+
+Category: `Forensics`
+Points: 100
+
+The file at `challenge/data.tar` is a compressed (and slightly neutered of garbage to reduce size) Google Chrome cache. This is the only file that is necessary for solving the challenge
